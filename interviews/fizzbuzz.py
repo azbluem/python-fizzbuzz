@@ -1,5 +1,4 @@
 def fizzbuzz(number):
-    current_number = 1
     answer = []
 
     for current_number in range(1, number + 1):
